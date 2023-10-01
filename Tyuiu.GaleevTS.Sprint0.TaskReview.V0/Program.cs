@@ -16,7 +16,7 @@ namespace Tyuiu.GaleevTS.Sprint0.TaskReview.V0
             Console.Title = "Спринт №0 | Выполнил: Галеев Т. С. | ИИПб-23-3";
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #0                                                                *");
-            Console.WriteLine("* Тема: Создания итогового решения по спринту                              *");
+            Console.WriteLine("* Тема: Review                                                             *");
             Console.WriteLine("* Задания #0                                                               *");
             Console.WriteLine("* Вариант #0                                                               *");
             Console.WriteLine("* Выполнил: Галеев Тимур Серикович | ИИПб-23-3                             *");
